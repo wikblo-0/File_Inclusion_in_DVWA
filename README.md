@@ -14,6 +14,8 @@ This repository stores the payloads used in the penetration testing of the File 
 
 * lfi_high_security_level.txt stores the individual payloads used for local file inclusion on the high security level.
 
-You can read more about the attack in the blog linked below, and there you will also find YouTube videos showing a screencast of each attack.
 
-https://pentesting-dvwa.hashnode.dev/
+
+You can read more about the attack in the blog here: https://pentesting-dvwa.hashnode.dev/
+
+You can watch a screencast of the attack here: https://youtu.be/F04VSPAm3d0?si=G-oeDB9k6QI6mpcJ
